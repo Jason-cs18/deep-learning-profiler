@@ -15,7 +15,7 @@ Profile your PyTorch model with model-level, layer-level, and operator-level det
   - [Other Resources](#other-resources)
 
 ## Introduction
-In deployment, identifying the bottleneck of our model is crucial. Typically, we analyze the cost from the model level down to the operator level. In this tutorial, we will show you a step-by-step guide to profile your PyTorch models.
+In deployment, identifying the bottleneck of our model is crucial. Typically, we analyze the cost from the model level down to the operator level. In this tutorial, we will show you a step-by-step guide to profile your PyTorch models..
 ## File Structure
 ```bash
 .
